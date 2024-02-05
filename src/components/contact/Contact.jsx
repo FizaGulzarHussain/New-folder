@@ -1,5 +1,5 @@
 import { useSelector } from "react-redux";
-import Navbar from "../navigation-bar/navbar";
+import Navbar from "../navigation-bar/Navbar";
 import { motion } from "framer-motion";
 
 const Contact = () => {
