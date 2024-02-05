@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import CTA from "./components/cta/CTA";
+import CTA from "./components/cta/Cta";
 import Footer from "./components/footer/Footer";
 import Hero from "./components/hero/Hero";
 import Navbar from "./components/navigation-bar/navbar";
