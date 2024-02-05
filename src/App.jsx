@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import CTA from "./components/cta/Cta";
 import Footer from "./components/footer/Footer";
 import Hero from "./components/hero/Hero";
-import Navbar from "./components/navigation-bar/navbar";
+import Navbar from "./components/navigation-bar/Navbar";
 import Testimonial from "./components/testimonial/Testimonial";
 
 function App() {
