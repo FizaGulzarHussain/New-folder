@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: black;
+}
+
+.bg_color {
+  background: radial-gradient(circle at top, #FFF7F1, #0000);
+}
